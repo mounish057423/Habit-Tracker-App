@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily-Do</string>
+    <string name="delete_habit">Delete Habit</string>
+</resources>
